@@ -1,0 +1,15 @@
+body{
+    ;
+   
+}
+
+
+.bac_img {
+    float: left;
+    width: 80px;
+}
+.bac_text{
+    float: right;
+    width: 95%;
+    vertical-align: bottom;
+}
